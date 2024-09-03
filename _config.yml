@@ -100,24 +100,10 @@ author:
   avatar           : "assets/img/1689708975774.jpg"
   bio              : "An engineer with a passion for product development "
   location         : "New York, NY"
-  links:
-    - label: ""
-      icon: ""
-      url: ""
-    - label: ""
-      icon: ""
-      url: ""
 
 
 # Site Footer
-footer:
-  links:
-    - label: ""
-      icon: ""
-      url: ""
-    - label: ""
-      icon: ""
-      url: ""
+
 
 
 # Reading Files
