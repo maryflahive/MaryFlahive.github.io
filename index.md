@@ -18,7 +18,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Phone Case"
     excerpt: "DIY Phone Case using TPU."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: assets/img/Screenshot 2024-04-29 201953mmk.png
  
 ---
 
