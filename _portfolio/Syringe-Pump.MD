@@ -4,12 +4,10 @@ excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printin
 header:
   image: assets/img/Screenshot 2024-04-29 201723.png
   teaser: assets/img/Screenshot 2024-04-29 201723.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
    
 ---
+
+Many medical situations require a device to administer specific doses of fluids to a patient over long periods. While this would be inefficient or impractically expensive for human nurses to accomplish, syringe pumps, or infusion pumps, provide a cheap and inexpensive way to supply these doses to patients reliably in a controlled manner. The design of the pump usually consists of a syringe that holds said fluid, a block to push the syringe plunge and eject the liquid through increased pressure, a lead screw to convert a motor’s rotational motion to linear movement, a base to hold the enclosure together, and fluidic tubing to transfer the liquid to the patient. This design incorporates similar components to provide the same functionality of stable and controlled pumping of fluid.
 
 # Features
 
