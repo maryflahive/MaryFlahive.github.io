@@ -9,7 +9,7 @@ header:
 
 Syringe pumps, also known as infusion pumps, offer a cost-effective solution for administering precise fluid doses to patients over extended periods, a task that would be costly and inefficient for human nurses. These pumps typically feature a syringe for fluid storage, a block to press the plunger, a lead screw to translate motor rotation into linear motion, a base for structural integrity, and tubing to deliver the fluid, ensuring consistent and controlled fluid delivery. This design incorporates similar components to provide the same functionality of stable and controlled pumping of fluid.
 
-# Features
+# Components
 
 | Off-the-Shelf Required Parts  | Quantity |
 | --- | --- |
@@ -28,6 +28,25 @@ Syringe pumps, also known as infusion pumps, offer a cost-effective solution for
 | LCD Display | 1 |
 | Limit Switch | 1 |
 | RGB Common Cathode LED | 1 |
+| Potentiometer | 1 |
+
+
+| 3D Printed Required Parts  | Quantity |
+| --- | --- |
+| Carriage | 1 |
+| Enclosure Top & Bottom | 1 |
+| End Support | 2 |
+| Motor Mounting Plate | 1 |
+
+# Operation Instructions
+
+* Ensure that the pump is paused by pressing the leftmost button, the LED turns yellow when the pump is paused.
+* Place the syringe with the desired amount of liquid to pump on the end support.
+* Using the switches on the right of the display, adjust the carriage so that it touches the end of the syringe plunger.
+* Use the potentiometer to adjust as desired the flow rate as seen on the display. 
+* Press the leftmost button again to start the pump, the LED should turn green.
+* As the pump runs, the display will show the current flow rate and time remaining.
+* When the plunger reaches its limit, the carriage actuates a limit switch to stop the motor. The LED turns red to indicate that the run has ended.
 
 
 # CAD Model
