@@ -14,7 +14,7 @@ feature_row:
     alt: "CNC Mill"
     title: "Syringe Pump"
     excerpt: "DIY Syringe Pump capable of uL / min flow rate up to 10 mL / min."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/Screenshot 2024-04-29 201723.png
     alt: "placeholder image 2"
     title: "Phone Case"
     excerpt: "DIY Phone Case using TPU."
