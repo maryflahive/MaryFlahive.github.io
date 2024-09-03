@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+excerpt: "DIY Syringe Pump capable of uL / min flow rate up to 10 mL / min."
 header:
   image: assets/img/Screenshot 2024-04-29 201723.png
   teaser: assets/img/Screenshot 2024-04-29 201723.png
