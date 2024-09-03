@@ -7,7 +7,7 @@ header:
    
 ---
 
-Many medical situations require a device to administer specific doses of fluids to a patient over long periods. While this would be inefficient or impractically expensive for human nurses to accomplish, syringe pumps, or infusion pumps, provide a cheap and inexpensive way to supply these doses to patients reliably in a controlled manner. The design of the pump usually consists of a syringe that holds said fluid, a block to push the syringe plunge and eject the liquid through increased pressure, a lead screw to convert a motor’s rotational motion to linear movement, a base to hold the enclosure together, and fluidic tubing to transfer the liquid to the patient. This design incorporates similar components to provide the same functionality of stable and controlled pumping of fluid.
+Syringe pumps, also known as infusion pumps, offer a cost-effective solution for administering precise fluid doses to patients over extended periods, a task that would be costly and inefficient for human nurses. These pumps typically feature a syringe for fluid storage, a block to press the plunger, a lead screw to translate motor rotation into linear motion, a base for structural integrity, and tubing to deliver the fluid, ensuring consistent and controlled fluid delivery. This design incorporates similar components to provide the same functionality of stable and controlled pumping of fluid.
 
 # Features
 
