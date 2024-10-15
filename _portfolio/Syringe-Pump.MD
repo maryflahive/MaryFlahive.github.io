@@ -38,7 +38,6 @@ Syringe pumps, also known as infusion pumps, offer a cost-effective solution for
 | End Support | 2 |
 | Motor Mounting Plate | 1 |
 
-The arduino code can be found [here](file:///C:/Users/Mary%20Flahive/Desktop/arduino%20code.pdf).
 
 # Operation Instructions
 
