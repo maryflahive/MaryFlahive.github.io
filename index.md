@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/img/IMG_7902.jpg
     alt: "CNC Mill"
     title: "Microfluidic Device"
-    excerpt: "Microfluidic Device utilizing the pinch flow method"
+    excerpt: "Microfluidic Device utilizing the pinch flow method."
  
 ---
 
