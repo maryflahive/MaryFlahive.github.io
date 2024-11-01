@@ -15,6 +15,8 @@ feature_row:
     title: "Syringe Pump"
     excerpt: "DIY Syringe Pump capable of uL / min flow rate up to 10 mL / min."
 
+---
+
 feature_row:
   - image_path: assets/img/Screenshot 2024-04-29 201723.png
     alt: "CNC Mill"
