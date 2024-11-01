@@ -15,3 +15,4 @@ This device has two inlets and three outlets. The top outlet is a drain for the 
 ## Fabrication
 
 ## CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4701ba68178fa20c0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
