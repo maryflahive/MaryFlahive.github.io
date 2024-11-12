@@ -18,7 +18,11 @@ feature_row:
     alt: "CNC Mill"
     title: "Microfluidic Device"
     excerpt: "Microfluidic Device utilizing the pinch flow method."
- 
+  - image_path: assets/img/pliers.jpg
+    alt: "CNC Mill"
+    title: "Multi-Material Pliers"
+    excerpt: "3D printed pliers using TPU & PLA."
+
 ---
 
 {% include feature_row %}
