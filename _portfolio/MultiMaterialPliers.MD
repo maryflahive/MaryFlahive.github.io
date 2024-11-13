@@ -17,3 +17,5 @@ The design for these pliers includes 5 pieces: 2 handles, 2 jaw tips, and a cent
 ## Images
 ![Plier picture](/assets/img/IMG_8041.jpg)
 ![Plier picture](/assets/img/pliers.jpg)
+![Plier picture](/assets/img/ezgif.com-video-to-gif-converter.gif)
+
