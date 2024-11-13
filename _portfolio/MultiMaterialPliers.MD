@@ -10,3 +10,6 @@ This project's objective was to design and print needle nose pliers that can pic
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4acef8ae0f472e24b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Design
+The design for these pliers includes 5 pieces: 2 handles, 2 tips, and a center flexible mesh. The handles have a long and thin design to allow the user to easily grip the pliers with one hand. The tips of the pliers have flat lines that come to a point to create a good grip. Both the handles and tips were printed using PLA. The center mesh is printed with TPU to create a flexbile component for the pliers to function. The flexible spring component is created through the print settings for the infill. 
