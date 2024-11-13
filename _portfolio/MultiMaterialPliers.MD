@@ -15,5 +15,4 @@ This project's objective was to design and print needle nose pliers that can pic
 The design for these pliers includes 5 pieces: 2 handles, 2 jaw tips, and a center flexible mesh. The handles have a long and thin design to allow the user to easily grip the pliers with one hand. The jaw of the pliers have flat lines that come to a point to create a good grip. The jaw length is 50 mm and the jaw capacity is 9 mm. Both the handles and jaw tips were printed using PLA. The center mesh is printed with TPU to create a flexbile component for the pliers to function. The flexible spring component is created through the print settings for the infill. The middle mesh part is imported into SuperSlicer and rotated 45 degrees to align with the infill. The solid layes for the top and bottom are put to 0. The sparse infill patern is set to monotonic to create a square pattern. The density is set to 10% and the perimeters value is 4. 
 
 ## Images
-
-
+![Plier picture](/assets/img/pliers.jpg)
