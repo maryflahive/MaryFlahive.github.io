@@ -25,7 +25,7 @@ feature_row:
   - image_path: assets/img/IMG_8049.jpg
     alt: "CNC Mill"
     title: "Bike Phone Holder"
-    excerpt: "Phone Mount that attaches to bike handles and can be rotated between portrate and landscape orientations."
+    excerpt: "Phone Mount that attaches to bike handles and can be rotated between portrait and landscape orientations."
 
 ---
 
