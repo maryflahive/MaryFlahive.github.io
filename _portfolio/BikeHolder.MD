@@ -2,8 +2,8 @@
 title: "Bike Phone Holder"
 excerpt: "Phone Mount that attaches to bike handles and can be rotated between portrait and landscape orientations."
 header:
-  image: assets/img/bike phone.png
-  teaser: assets/img/IMG_8049.jpg
+  image: assets/img/IMG_8049.jpg
+  teaser: assets/img/bike phone.png
 
 ---
 Top Down Modeling
