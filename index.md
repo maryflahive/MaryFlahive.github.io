@@ -22,6 +22,10 @@ feature_row:
     alt: "CNC Mill"
     title: "Multi-Material Pliers"
     excerpt: "3D printed pliers using TPU & PLA."
+  - image_path: assets/img/IMG_8049.jpg
+    alt: "CNC Mill"
+    title: "Bike Phone Holder"
+    excerpt: "Phone Mount that attaches to bike handles and can be rotated between portrate and landscape orientations."
 
 ---
 
