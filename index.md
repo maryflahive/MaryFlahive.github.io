@@ -26,6 +26,10 @@ feature_row:
     alt: "CNC Mill"
     title: "Bike Phone Holder"
     excerpt: "Phone Mount that attaches to bike handles and can be rotated between portrait and landscape orientations."
+  - image_path: assets/img/IMG_8049.jpg
+    alt: "CNC Mill"
+    title: "Generative Design SLS Truck Hanger + Motor Mount"
+    excerpt: "Powder printed Skateboard Hangar and Motor Mount created using generative design CAD."    
 
 ---
 
