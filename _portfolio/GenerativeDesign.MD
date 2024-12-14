@@ -17,7 +17,7 @@ header:
 ![rendering](/assets/img/Longboard_Assembly_2024-Dec-13_11-04-04PM-000_CustomizedView14386169604_jpg.jpg)
 
 ## Interference Error
-![interference](/assets/img/Screenshot 2024-12-13 221758.jpg)
+(/assets/img/Screenshot 2024-12-13 221758.jpg)
 
 After the design was printed, we tested it out on the longboard assembly. Unfortunately, this iteration contained too much material near the kingpin so it did not slide onto the assembly. Because of the angle of the kingpin and the pivot cup, there needed to be a lot of clearance to allow the hangar room to slide onto the part. To fix this, I added more obstacle geometry around the space where my printed hangar collided with the assembly. This will provide more room for the pieces to fit together. The updated design is in the above CAD models. The image below shows the failed print with the interference point circles. 
 
